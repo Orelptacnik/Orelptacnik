@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orelptacnik
-- 👀 I’m interested in coding ofcourse
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in coding and currently am learning myself to do so
+- 🌱 At this time I’m learning C++
 
 <!---
 Orelptacnik/Orelptacnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
